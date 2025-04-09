@@ -53,6 +53,4 @@ This case study aims at the automatic interpretation of gestures in order to off
 3. https://smitan94.github.io/Gesture-Recognition-Neural-Network/
 
 
-## Contact
-Created by [https://github.com/atharvapathak] - feel free to contact me!
-1. Atharva -  atharvapathakb2w@gmail.com
+
